@@ -1,0 +1,7 @@
+Movie Name: Spider-Man
+Adult Tickets: 1
+Students Tickets: 1
+Seat Type: AdultStudent
+Show Date: 1/Jan/2022
+Show Time: 11:00
+Price(GBP): 25
